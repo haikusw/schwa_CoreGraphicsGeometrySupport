@@ -1,3 +1,5 @@
+*** Code has moved to http://github.com/schwa/SwiftGraphics***
+
 # CoreGraphicsGeometrySupport
 
 A micro-package to make working with CGPoint/Size/Rect somewhat nicer.
